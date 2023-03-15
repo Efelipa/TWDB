@@ -7,15 +7,9 @@ body {
     font-family: var(--main-font);
 }
 /* Classes */
-.bg-purple {
-    background-color: purple;
-}
-.nav-transparent { 
-    background-color:transparent;
-}
-
 .scrolled {
     background-color: rgb(222, 192, 222);
+    transition: all .5s ease;
 }
 /* ID's */
 #mainNavbar {
